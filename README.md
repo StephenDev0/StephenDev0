@@ -4,7 +4,7 @@ College student & hobbyist programmer.
 
 ## 🔭 Pinned Project
 
-**[StikJIT](https://github.com/0-Blu/StikJIT)**  
+**[StikJIT](https://github.com/StephenDev0/StikJIT)**  
 On‑device JIT enabler for iOS 17.4+
 
 ## ⚙️ Tech

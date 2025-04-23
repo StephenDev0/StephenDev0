@@ -9,7 +9,7 @@ On‑device JIT enabler for iOS 17.4+
 
 ## ⚙️ Tech
 
-Swift · SwiftUI · Python · Rust
+Swift · SwiftUI · HTML · CSS 
 
 ## 💼 Open to internships
 

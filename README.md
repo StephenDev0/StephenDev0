@@ -11,7 +11,7 @@ On‑device JIT enabler for iOS 17.4+
 
 Swift · SwiftUI · HTML · CSS 
 
-## 💼 Open to internships
+## 💼 Open to jobs & internships
 
 Email me at [StephenDev0@outlook.com](mailto:StephenDev0@outlook.com)
 

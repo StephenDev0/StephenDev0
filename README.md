@@ -12,7 +12,9 @@ StikDebug is an on-device debugger/JIT enabler for iOS 17.4 and later.
 - Swift  
 - SwiftUI  
 - HTML  
-- CSS  
+- CSS
+- R
+- Rust
 
 ## Opportunities
 

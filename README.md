@@ -1,23 +1,37 @@
 # Stephen B
 
-I am a college student and software developer with a focus on iOS tools and utilities.
+> iOS developer • college student
 
-## Pinned Project
+```swift
+struct Developer {
+    let name = "Stephen B"
+    let role = "iOS Developer"
+    let focus = ["Debugging", "Utilities", "Privacy"]
+    let email = "StephenDev0@outlook.com"
+}
 
-**[StikDebug](https://github.com/StephenDev0/StikDebug)**  
-StikDebug is an on-device debugger/JIT enabler for iOS 17.4 and later.
+let pinnedProject = Project(
+    name: "StikDebug",
+    description: "An on-device debugger and JIT enabler for iOS 17.4+",
+    url: "https://github.com/StephenDev0/StikDebug"
+)
+```
 
-## Languages & Frameworks
+## 🧠 Languages & Frameworks
 
-- Swift  
-- SwiftUI  
-- HTML  
-- CSS
-- R
-- Rust
+```text
+Swift     • SwiftUI
+HTML      • CSS
+Rust      • R
+```
 
-## Opportunities
+## 💼 Opportunities
 
-I am open to employment opportunities. Please reach out via email: [StephenDev0@outlook.com](mailto:StephenDev0@outlook.com)
+```bash
+# I'm open to new roles or collaborations
+echo "Reach out at: StephenDev0@outlook.com"
+```
+
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StephenDev0&show_icons=true&theme=dark)

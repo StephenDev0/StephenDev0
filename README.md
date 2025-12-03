@@ -22,7 +22,7 @@ let pinnedProject = Project(
 ```text
 Swift     • SwiftUI
 HTML      • CSS
-Rust      • R
+Rust      
 ```
 
 ---

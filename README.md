@@ -1,6 +1,6 @@
 # Stephen B
 
-> iOS developer • college student
+> Software Developer
 
 ```swift
 struct Developer {

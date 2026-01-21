@@ -1,7 +1,5 @@
 # Stephen B
 
-> Software Developer
-
 ```swift
 struct Developer {
     let name = "Stephen B"

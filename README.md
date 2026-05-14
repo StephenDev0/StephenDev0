@@ -1,6 +1,6 @@
 # Stephen B
 
-Self-taught iOS developer building JIT enablers, device utilities, sideloading apps, and developer-focused tools.
+Self-taught hobbyist iOS developer building JIT enablers, device utilities, sideloading apps, and developer-focused tools.
 
 ```swift
 struct Developer {

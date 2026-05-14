@@ -19,7 +19,7 @@ I build Swift and SwiftUI apps focused on making iOS easier to use, including pr
 
 ### [StikDebug](https://github.com/StephenDev0/StikDebug)
 
-An on-device debugger and JIT enabler for iOS 17.4+.
+An on-device iOS JIT enabler for iOS 17.4+.
 
 ## Tech
 

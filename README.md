@@ -46,6 +46,6 @@ An on-device iOS JIT enabler for iOS 17.4+.
 
 ## Links
 
-- [StikDebug](https://github.com/StephenDev0/StikDebug)
+- [StikDebug](https://github.com/StikDebug/StikDebug)
 - [X](https://x.com/StephenDev0)
 - [Email](mailto:StephenDev0@outlook.com)

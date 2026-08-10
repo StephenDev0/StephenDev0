@@ -1,6 +1,6 @@
 # Stephen B
 
-Self-taught (iOS) developer building JIT tools, sideloading apps, and device utilities.
+Self-taught developer building tools for JIT, sideloading, and Apple devices.
 
 ```swift
 struct Developer {
